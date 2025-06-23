@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "three": "^0.155.0"
-  }
+  },
   "scripts": {
   "build": "vite build"
   }
